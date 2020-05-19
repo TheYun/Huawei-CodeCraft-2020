@@ -1,5 +1,5 @@
 # Huawei-CodeCraft-2020
-(```c++
+(```C++
 struct original //原始数据
 {
 	int giver; //本方ID
